@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>comp74</groupId>
-	<artifactId>hotel-db</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>QrBandExecutableJar</artifactId>
+	<version>0.0.2-QRTEST</version>
 	<name>hotel-db</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -25,7 +25,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
