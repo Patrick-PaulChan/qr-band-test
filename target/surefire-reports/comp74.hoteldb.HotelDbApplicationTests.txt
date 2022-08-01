@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: comp74.hoteldb.HotelDbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.876 s - in comp74.hoteldb.HotelDbApplicationTests

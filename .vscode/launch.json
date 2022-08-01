@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HotelDbApplication<hotel-db>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "comp74.hoteldb.HotelDbApplication",
+            "projectName": "hotel-db",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HotelDbApplication<QrBandExecutableJar>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "comp74.hoteldb.HotelDbApplication",
+            "projectName": "QrBandExecutableJar",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
